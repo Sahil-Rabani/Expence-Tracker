@@ -22,4 +22,6 @@ A simple Java console app to track daily expenses with descriptions and dates.
 
 ## Author
 
-Created as part of an intermediate Java project series.
+Sahil Rabani
+
+Intermediate Java project series.
